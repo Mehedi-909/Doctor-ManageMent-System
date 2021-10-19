@@ -1,0 +1,209 @@
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\appsettings.Development.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\appsettings.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.exe
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.deps.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.runtimeconfig.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.runtimeconfig.dev.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\ref\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\OnlinePrescription.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Humanizer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.Identity.Client.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\System.Configuration.ConfigurationManager.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\System.Runtime.Caching.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.AssemblyReference.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.GeneratedMSBuildEditorConfig.editorconfig
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfoInputs.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfo.cs
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CoreCompileInputs.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.MvcApplicationPartsAssemblyInfo.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.Manifest.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.xml
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\scopedcss\bundle\OnlinePrescription.styles.css
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.RazorTargetAssemblyInfo.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CopyComplete
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\ref\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.genruntimeconfig.cache
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\appsettings.Development.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\appsettings.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.exe
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.deps.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.dev.json
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\ref\OnlinePrescription.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\OnlinePrescription.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Humanizer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.Identity.Client.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\System.Configuration.ConfigurationManager.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\System.Runtime.Caching.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\After July 12\Document\DotNetProjects\OnlinePrescription\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\appsettings.Development.json
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\appsettings.json
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.exe
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.deps.json
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.json
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.dev.json
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\ref\OnlinePrescription.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Humanizer.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.Identity.Client.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\System.Runtime.Caching.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.AssemblyReference.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfoInputs.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfo.cs
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CoreCompileInputs.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.MvcApplicationPartsAssemblyInfo.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.Manifest.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.xml
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\scopedcss\bundle\OnlinePrescription.styles.css
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.RazorTargetAssemblyInfo.cache
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CopyComplete
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\ref\OnlinePrescription.dll
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.pdb
+G:\Dot net project\Online Prescription DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.genruntimeconfig.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\appsettings.Development.json
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\appsettings.json
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.exe
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.deps.json
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.json
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.runtimeconfig.dev.json
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\ref\OnlinePrescription.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\OnlinePrescription.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Humanizer.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.Identity.Client.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\System.Runtime.Caching.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\output2\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.AssemblyReference.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfoInputs.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.AssemblyInfo.cs
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CoreCompileInputs.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.MvcApplicationPartsAssemblyInfo.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.Manifest.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\staticwebassets\OnlinePrescription.StaticWebAssets.xml
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\scopedcss\bundle\OnlinePrescription.styles.css
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.RazorTargetAssemblyInfo.cache
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.csproj.CopyComplete
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\ref\OnlinePrescription.dll
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.pdb
+G:\Dot net project\Online-Prescription-DotNet\OnlinePrescription\obj\Debug\net5.0\OnlinePrescription.genruntimeconfig.cache
